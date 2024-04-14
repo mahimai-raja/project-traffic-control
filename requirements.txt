@@ -68,7 +68,7 @@ soupsieve==2.3.2.post1
 tb-nightly==2.12.0a20230107
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
-torch==1.13.1
+torch==2.0
 torchvision==0.14.1
 tqdm==4.64.1
 typing_extensions==4.4.0
